@@ -3,4 +3,4 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.lua.org/home.html" target="_blank"> <img src="https://www.lua.org/images/luaa.gif" alt="Luau" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.lua.org/home.html" target="_blank"> <img src="https://en.wikipedia.org/wiki/Lua_(programming_language)#/media/File:Lua-Logo.svg" alt="Luau" width="40" height="40"/> </a></p>
